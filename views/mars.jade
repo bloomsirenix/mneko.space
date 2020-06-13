@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1= title
+  p Please put in the url bar /mars/rovername/year for example /mars/curiosity/#{year}
+  a(href="/mars/curiosity/#{year}") Mars Pictures of The Year #{year}
+//  iframe(width="100%" height="100%" style="position: absolute;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="/mars/curiosity/#{year}")
+
