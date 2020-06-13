@@ -1,6 +1,6 @@
 /*
 * Copyright © manikineko.nl and mneko.space Dev Team all rights reserved
-* Usage and/or Modification are Prohibited, Without permission of the site domain owner!
+*  
 */
 var express = require('express'); //Express API
 var router = express.Router(); //Router API
