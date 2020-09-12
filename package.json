@@ -14,7 +14,7 @@
     "moment": "^2.26.0",
     "morgan": "~1.9.1",
     "nasa-sdk": "^1.1.10",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "youtube-api": "^2.0.10"
   }
 }
